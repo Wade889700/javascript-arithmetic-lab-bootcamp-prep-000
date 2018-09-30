@@ -19,4 +19,6 @@ function dec(a){
 function makeInt(a){
   return paeseInt(a)
 }
-function 
+function preserveDecimal(n){
+  return parseFloat(n)
+}
