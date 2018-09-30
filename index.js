@@ -17,7 +17,7 @@ function dec(a){
   return parseInt(a) -1
 }
 function makeInt(a){
-  return paeseInt(a)
+  return parseInt(a)
 }
 function preserveDecimal(n){
   return parseFloat(n)
